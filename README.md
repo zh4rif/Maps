@@ -55,10 +55,9 @@ plt.show()
 
 ## References
 - [ESA InSAR Guide](https://earth.esa.int/eogateway/activities/insar)
-- [NASA JPL InSAR Overview](https://www.jpl.nasa.gov/edu/learn/project/insar)
+- [Copernicus DATA](https://dataspace.copernicus.eu/explore-data)
 - [PYGMTSAR](https://github.com/AlexeyPechnikov/pygmtsar)
 
-## License
-This project is licensed under the MIT License.
+
 
 
